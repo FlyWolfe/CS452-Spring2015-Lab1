@@ -1,1 +1,6 @@
-name, date, description
+Mathew Sherry, 1-30-15, WebGL program to display different shapes on successive clicks.
+
+Quick Note: I have it so you have to click the screen to initialize the program (sorta);
+
+How I got to the solution: I created a program, using examples from Angel, that displayed a square on the screen. I then made three sets of vertices (one set per shape).
+I added an onClick event where the program will switch shapes to display, place their vertices, and then render them.
